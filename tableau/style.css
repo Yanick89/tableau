@@ -1,0 +1,31 @@
+body{
+  padding: 0;
+  margin: 10;
+}
+table{
+
+  border-color: red rgba(170, 50, 220, .6) green;
+}
+
+caption{
+  background: aqua;
+  border: 3px solid blue;
+  padding: 10px;
+  margin: 10px;
+  color: rgb(0, 0, 255);
+ }
+ th{
+   background: aqua;
+   border: 3px solid blue;
+   padding: 10px;
+   margin: 10px;
+   color: rgb(0, 0, 255);
+ }
+
+ td{
+   background: aqua;
+   border: 3px solid blue;
+   padding: 10px;
+   margin: 10px;
+   color: rgb(0, 0, 255);
+ }
